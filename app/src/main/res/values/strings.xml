@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="btn_click">点击弹出对话框</string>
+</resources>
